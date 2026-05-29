@@ -4,7 +4,7 @@
 
 ![Status](https://img.shields.io/badge/Status-Completo-brightgreen)
 ![Java](https://img.shields.io/badge/Java-21-orange)
-![Maven](https://img.shields.io/badge/Maven-3.9-red)
+![Maven](https://img.shields.io/badge/Maven-4.1-red)
 ![POO](https://img.shields.io/badge/POO-Herança%20%7C%20Polimorfismo%20%7C%20Interfaces-blue)
 ![Persistência](https://img.shields.io/badge/Persistência-JSON-success)
 ![Licença](https://img.shields.io/badge/Licença-Acadêmica-lightgrey)
