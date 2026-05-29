@@ -1,0 +1,10 @@
+target/
+.vscode/
+.idea/
+
+*.class
+
+pacientes.json
+profissionais.json
+salas.json
+atendimentos.json
